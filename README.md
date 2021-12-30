@@ -4,4 +4,5 @@ This project is my commercial version of BCBOT (bot to automate the BombCrypto g
 
 ## If you are looking for a FREE open source solution this is the project:
 **-->It's necessary to inform that solution free DON'T HAVE technical support<--**
+
 https://github.com/afkapp/bombcrypto-bcbot
