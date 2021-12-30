@@ -1,5 +1,5 @@
 ﻿[update]
-newchecksum=563547099
+newchecksum=563545110
 localversion=bcbot.exe
 
 [files]
@@ -10,8 +10,8 @@ url=https://github.com/bts22/bombcrypto-bcbot/raw/main/version/bcbot.CAB
 localversion=bcbot.exe
 targetdir={app}
 compressed=0
-filesize=2347912
-newchecksum=563547099
+filesize=2349396
+newchecksum=563545110
 mandatory=1
 
 [application]
